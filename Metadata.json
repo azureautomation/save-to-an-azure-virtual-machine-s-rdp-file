@@ -1,7 +1,7 @@
 {
     "Author": "HasanG\u00fcral",
     "ContentSize": 1725,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/save-to-an-azure-virtual-machine's-rdp-file/master/Save-AzureRemoteDesktopFile.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/save-to-an-azure-virtual-machine-s-rdp-file/master/Save-AzureRemoteDesktopFile.ps1",
     "DownloadCount": 855,
     "Id": "Save-to-an-Azure-Virtual-405ac12d",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "When you execute that function, it provide create the Remote Desktop File of Virtual Machine on Azure in what you select path. SavePath parameter must be specified as mandatory. Optional Account can add into Remote Desktop file with Username Parameter",
     "Title": "Save to an Azure Virtual Machine's RDP File",
     "UpdatedDate": "2015-3-31T00:00:00",
-    "Url": "https://github.com/azureautomation/save-to-an-azure-virtual-machine's-rdp-file",
+    "Url": "https://github.com/azureautomation/save-to-an-azure-virtual-machine-s-rdp-file",
     "UserTags": "Microsoft Azure Virtual Machines"
 }
